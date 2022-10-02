@@ -39,4 +39,6 @@
 > 更多 pm2 的内容请阅读相关官方文档，pm2 支持负载均衡等
 
 ## 3. 接口截图
-<img src="https://mxh-1257393241.cos.ap-nanjing.myqcloud.com//markdownimage-20221003012254011.png" alt="image-20221003012254011" style="zoom:50%;" />
+<div style="display: flex; justify-content: center">
+  <img src="https://mxh-1257393241.cos.ap-nanjing.myqcloud.com//markdown%E6%88%AA%E5%B1%8F2022-10-03%2001.50.14.png" alt="image-20221003012254011" style="width: 600px" />
+</div>
